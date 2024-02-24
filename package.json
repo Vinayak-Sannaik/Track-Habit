@@ -1,4 +1,5 @@
 {
+  "homepage": "https://vinayak-sannaik.github.io/Track-Habit",
   "name": "habit-tracker",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,8 @@
     "typed.js": "^2.0.12"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build", 
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,6 +44,7 @@
     "autoprefixer": "10.4.5"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "react-scripts": "^5.0.1"
   }
 }
