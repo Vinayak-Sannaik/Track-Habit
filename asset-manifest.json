@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Track-Habit/static/css/main.40b190b3.css",
+    "main.js": "/Track-Habit/static/js/main.307d6de6.js",
+    "static/media/bg.jpg": "/Track-Habit/static/media/bg.ae2483edb4a86c027b92.jpg",
+    "index.html": "/Track-Habit/index.html",
+    "main.40b190b3.css.map": "/Track-Habit/static/css/main.40b190b3.css.map",
+    "main.307d6de6.js.map": "/Track-Habit/static/js/main.307d6de6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b190b3.css",
+    "static/js/main.307d6de6.js"
+  ]
+}
