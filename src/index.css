@@ -1,0 +1,40 @@
+body {
+  background-image: url("bg.jpg");
+  background-size: cover;
+}
+
+.gradient {
+  background-color: #8681bf;
+  background-image: linear-gradient(315deg, #657203 0%, #040e24 65%);
+}
+.gradient1 {
+  background-color: #2b4162;
+  background-image: linear-gradient(320deg, #182d55 0%, #0b1f1f 34%);
+}
+
+.done {
+  color: rgb(25, 204, 55);
+}
+.fail {
+  color: rgb(235, 14, 14);
+}
+.day-headings {
+  color: #049cbe;
+}
+.text-light {
+  font-family: monospace, "Montserrat", sans-serif;
+  font-size: larger;
+}
+
+@media screen and (max-width: 600px){
+    .text-light {
+        font-family: monospace, "Montserrat", sans-serif;
+        font-size: small;
+        margin-bottom: 10px;
+      } 
+
+      .day-headings {
+        color: #049cbe;
+        font-size: 7px;
+      }
+}
