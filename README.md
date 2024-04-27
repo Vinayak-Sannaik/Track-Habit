@@ -50,3 +50,9 @@ This project is a Habit Tracker built using React, allowing users to add habits 
 - React
 - JavaScript
 - CSS
+## Check out live here 👉 https://vinayak-sannaik.github.io/Track-Habit/
+![image](https://github.com/Vinayak-Sannaik/Track-Habit/assets/112576218/492fddfe-a331-4c8d-b860-2288636f0c9b)
+![image](https://github.com/Vinayak-Sannaik/Track-Habit/assets/112576218/27eef38d-f540-43ef-8280-2681bdd776e2)
+![image](https://github.com/Vinayak-Sannaik/Track-Habit/assets/112576218/beea2bfc-ba77-48fe-8486-883aae9a21c8)
+
+
